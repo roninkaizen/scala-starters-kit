@@ -1,0 +1,29 @@
+the first chapter contains useful links about the basics of development-environment
+the building environment and some other helpful links
+
+starting with
+
+https://github.com/scala/scala
+
+https://docs.scala-lang.org/getting-started/intellij-track/building-a-scala-project-with-intellij-and-sbt.html
+
+https://www.scala-sbt.org/1.x/docs/index.html
+
+https://www.scala-sbt.org/1.x/docs/Setup.html
+
+https://github.com/sbt/sbt
+
+https://www.scala-sbt.org/
+
+https://www.scala-sbt.org/download.html
+
+https://www.scala-sbt.org/release/docs/Setup.html
+
+https://www.scala-sbt.org/release/docs/Installing-sbt-on-Linux.html
+
+https://packages.ubuntu.com/hu/xenial/openjdk-8-jdk
+
+https://www.scala-exercises.org/scala_tutorial/terms_and_types
+
+https://docs.scala-lang.org/tour/tour-of-scala.html
+
