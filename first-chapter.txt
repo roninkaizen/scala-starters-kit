@@ -3,27 +3,29 @@ the building environment and some other helpful links
 
 starting with
 
+Some Introduction inkl. IDE Setup- Basics&Intro
 https://github.com/scala/scala
+https://github.com/scala/scala#ide-setup
+https://github.com/scala/scala/blob/2.13.x/src/intellij/README.md
 
 https://docs.scala-lang.org/getting-started/intellij-track/building-a-scala-project-with-intellij-and-sbt.html
 
+Scala SBT 
 https://www.scala-sbt.org/1.x/docs/index.html
-
 https://www.scala-sbt.org/1.x/docs/Setup.html
 
 https://github.com/sbt/sbt
-
-https://www.scala-sbt.org/
-
 https://www.scala-sbt.org/download.html
-
 https://www.scala-sbt.org/release/docs/Setup.html
-
 https://www.scala-sbt.org/release/docs/Installing-sbt-on-Linux.html
 
+Environment for building
 https://packages.ubuntu.com/hu/xenial/openjdk-8-jdk
 
-https://www.scala-exercises.org/scala_tutorial/terms_and_types
+Dev stuff itself
 
 https://docs.scala-lang.org/tour/tour-of-scala.html
-
+https://www.scala-exercises.org/scala_tutorial/terms_and_types
+https://docs.scala-lang.org/books.html
+https://docs.scala-lang.org/cheatsheets/index.html
+https://www.scala-lang.org/contribute/hacker-guide.html
