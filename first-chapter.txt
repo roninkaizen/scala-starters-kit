@@ -29,3 +29,6 @@ https://www.scala-exercises.org/scala_tutorial/terms_and_types
 https://docs.scala-lang.org/books.html
 https://docs.scala-lang.org/cheatsheets/index.html
 https://www.scala-lang.org/contribute/hacker-guide.html
+
+very nice introduction to scala
+https://www.tutorialspoint.com/scala/scala_environment_setup.htm
